@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 28 Jan 2019 pada 23.26
+-- Waktu pembuatan: 14 Jul 2019 pada 01.11
 -- Versi server: 10.1.37-MariaDB
 -- Versi PHP: 7.3.0
 
@@ -55,7 +55,7 @@ INSERT INTO `t_dataanggota` (`id_anggota`, `no_anggota`, `nama_anggota`, `tempat
 (6, '6010119', 'Utari Ida Chandra', 'Purwokerto', '1992-10-20', 'Perempuan', 'JL. Let Jend. S. Par', '0281633961', '332616410741002', 'Pedagang', '0000-00-00'),
 (7, '7010119', 'Wira Eka Indradjaja', 'Purwokerto', '1994-07-12', 'Laki-laki', 'JL. S. Parman No. 23', '0281642279', '321312050174000', 'Pegawai Negeri', '0000-00-00'),
 (8, '8010119', 'Sudomo Purnama Tan', 'Banyumas', '1993-11-22', 'Laki-laki', 'Jl Jend Gatot Subroto', '0281796229', '3326166205030001', 'Pegawai Negeri', '0000-00-00'),
-(9, '9100119', 'Limijanti Xiu Chandra', 'Purwokerto', '1998-10-03', 'Perempuan', 'Jl Anggrek Raya 16 RT 002/01', '0281894825', '3326160402010021', 'Pegawai Negeri', '2019-01-30');
+(9, '9100119', 'Limijanti Xiu Chandra', 'Purwokerto', '1998-10-03', 'Perempuan', 'Jl Anggrek Raya 16 RT 002/01', '0281894825', '3326160402010021', 'Pegawai Negeri', '0000-00-00');
 
 -- --------------------------------------------------------
 
